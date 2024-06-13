@@ -24,6 +24,7 @@ To learn more about Next.js, take a look at the following resources:
 
 ## Aceternity UI
 Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
+Copy paste the most trending components and use them in your websites without having to worry about styling and animations.
 - https://ui.aceternity.com
 
 
