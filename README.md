@@ -17,8 +17,10 @@ bun dev
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 ## Reference
-- https://nextjs.org/learn/dashboard-app
-- https://nextjs.org/docs
+To learn more about Next.js, take a look at the following resources:
+ 
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 ## Aceternity UI
 Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
