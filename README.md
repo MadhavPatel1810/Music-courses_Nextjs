@@ -20,4 +20,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - https://nextjs.org/learn/dashboard-app
 - https://nextjs.org/docs
 
+## Aceternity UI
+Beautiful Tailwind CSS and Framer Motion Components, built with Next.js and TypeScript.
+- https://ui.aceternity.com
+
 
