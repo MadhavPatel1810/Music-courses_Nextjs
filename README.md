@@ -2,7 +2,7 @@
 This is the NextJs application, I built a simplified version of the Music Courses that has: A basic introduction to nextjs with awesome UI.
 
 - Visit Music-courses_Nextjs
-* https://music-courses-nextjs-qv0748lt6-madhav-patel-s-projects.vercel.app/
+$ https://music-courses-nextjs-qv0748lt6-madhav-patel-s-projects.vercel.app/
 
 ## Reference
 To learn more about Next.js, take a look at the following resources:
